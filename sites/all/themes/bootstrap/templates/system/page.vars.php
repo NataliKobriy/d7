@@ -9,7 +9,7 @@
  *
  * See template for list of available variables.
  *
- * @see page.tpl.php
+ * @see page--front.tpl.php
  *
  * @ingroup theme_preprocess
  */
@@ -74,7 +74,7 @@ function bootstrap_preprocess_page(&$variables) {
  *
  * See template for list of available variables.
  *
- * @see page.tpl.php
+ * @see page--front.tpl.php
  *
  * @ingroup theme_process
  */

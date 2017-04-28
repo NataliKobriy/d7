@@ -1,7 +1,365 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0e702f9-62b3-4d69-baf2-12c270380bf5" name="Default" comment="" />
+    <list default="true" id="d0e702f9-62b3-4d69-baf2-12c270380bf5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/0cd4dc0a5dcc56379de054d1879c2eb100dd93f1/_default-variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/0cd4dc0a5dcc56379de054d1879c2eb100dd93f1/_overrides.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/0cd4dc0a5dcc56379de054d1879c2eb100dd93f1/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_badges.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_breadcrumbs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_button-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_close.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_code.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_component-animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_dropdowns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_glyphicons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_input-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_jumbotron.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_labels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_list-group.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_media.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_modals.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_navbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_navs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_normalize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_pager.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_panels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_popovers.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_print.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_progress-bars.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_responsive-embed.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_responsive-utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_scaffolding.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_tables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_thumbnails.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_tooltip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/21cc5724c0fc5d90761961fe50e59c740594c1cb/_wells.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/495e9db2866818dc9803969e5c571efeb68eb590/_bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_badges.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_breadcrumbs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_button-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_close.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_code.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_component-animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_dropdowns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_glyphicons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_input-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_jumbotron.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_labels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_list-group.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_media.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_modals.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_navbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_navs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_normalize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_pager.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_panels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_popovers.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_print.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_progress-bars.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_responsive-embed.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_responsive-utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_scaffolding.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_tables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_thumbnails.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_tooltip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/787e8b38069c9e5c615846bcff6106d1b3532001/_wells.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_background-variant.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_border-radius.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_center-block.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_clearfix.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_gradients.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_grid-framework.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_hide-text.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_image.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_labels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_list-group.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_nav-divider.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_nav-vertical-align.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_opacity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_panels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_progress-bar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_reset-filter.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_reset-text.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_resize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_responsive-visibility.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_size.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_tab-focus.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_table-row.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_text-emphasis.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_text-overflow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/a381071ffbfeae6b116204bc050b000a9caecd3c/_vendor-prefixes.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/b608dd72bfd4974e2b2f4b143cf945e82d35f82c/_default-variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/b608dd72bfd4974e2b2f4b143cf945e82d35f82c/_overrides.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/b608dd72bfd4974e2b2f4b143cf945e82d35f82c/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/cae701be3a5286882d9e12ad7457bbdeac1c75bd/_bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_background-variant.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_border-radius.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_center-block.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_clearfix.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_gradients.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_grid-framework.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_hide-text.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_image.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_labels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_list-group.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_nav-divider.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_nav-vertical-align.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_opacity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_panels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_progress-bar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_reset-filter.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_reset-text.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_resize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_responsive-visibility.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_size.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_tab-focus.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_table-row.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_text-emphasis.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_text-overflow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/.sass-cache/ebc0c08c745bf34376fdc5c7e325d6716161580e/_vendor-prefixes.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/1493267963_phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/decor3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/dizajn-gostinoj-56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/interier-praha-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/sposobyi-ukrasheniya-komnat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/Все-что-вам-нужно-знать-об-интерьере.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/скандинавский-интерьер-квартиры-Idunsgate (2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap-sprockets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/affix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/javascripts/bootstrap/transition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-mincer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-sprockets.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_component-animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_glyphicons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_input-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_navs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_pager.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_responsive-embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_responsive-utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_thumbnails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/_wells.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_center-block.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_hide-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_opacity.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/bootstrap-sass.gemspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/eyeglass-exports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/lib/bootstrap-sass.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/lib/bootstrap-sass/engine.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/lib/bootstrap-sass/version.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/sache.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/bower.rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/converter.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/converter/char_string_scanner.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/converter/fonts_conversion.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/converter/js_conversion.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/converter/less_conversion.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/converter/logger.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/tasks/converter/network.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/templates/project/_bootstrap-variables.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/templates/project/manifest.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/templates/project/styles.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/compass_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/compilation_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_node_mincer/application.css.ejs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_node_mincer/manifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/README.rdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/assets/stylesheets/application.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/controllers/pages_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/views/pages/root.html.slim" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/initializers/secret_token.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/locales/es.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_sass_only/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_sass_only/compile.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_sass_only/import_all.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/gemfiles/rails_head.gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/gemfiles/sass_3_3.gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/gemfiles/sass_3_4.gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/gemfiles/sass_head.gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/node_mincer_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/node_sass_compile_test.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/pages_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/sass_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/sprockets_rails_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/support/dummy_rails_integration.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/support/reporting.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/test_helper_rails.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/sass.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_default-variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_overrides.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region.tpl.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images/.keep" afterPath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/app/assets/images/.keep" afterPath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--movies--page.tpl.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/test/dummy_rails/log/.keep" afterPath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/bootstrap.inc" afterPath="$PROJECT_DIR$/includes/bootstrap.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/common.inc" afterPath="$PROJECT_DIR$/includes/common.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/theme.inc" afterPath="$PROJECT_DIR$/includes/theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/theme/theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/theme/theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/views.module" afterPath="$PROJECT_DIR$/sites/all/modules/views/views.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.vars.php" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.vars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/config.rb" afterPath="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/templates/maintenance-page.tpl.php" afterPath="$PROJECT_DIR$/themes/bartik/templates/maintenance-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/templates/page.tpl.php" afterPath="$PROJECT_DIR$/themes/bartik/templates/page.tpl.php" />
+    </list>
     <ignored path="d8.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,50 +379,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_bootstrap-compass.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_overrides.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_overrides.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="998" column="15" lean-forward="false" selection-start-line="998" selection-start-column="15" selection-end-line="998" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page--main--page.tpl.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page--main--page.tpl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="-352">
+              <caret line="114" column="9" lean-forward="false" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
               <folding>
-                <element signature="e#6#3287#0#PHP" expanded="true" />
+                <element signature="e#6#3294#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="region.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region.tpl.php">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/contrib/token/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <state relative-caret-position="60">
+              <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="block.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/block/block.tpl.php">
+      <file leaf-file-name="INSTALL.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/contrib/nodequeue/INSTALL.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -73,38 +411,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="region.vars.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/region.vars.php">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/contrib/nodequeue/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-660">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/js/bootstrap.js">
+      <file leaf-file-name="page--reviews.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--reviews.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="768">
+              <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#3294#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.tpl.php">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="82" column="21" lean-forward="false" selection-start-line="78" selection-start-column="6" selection-end-line="82" selection-end-column="21" />
+            <state relative-caret-position="-612">
+              <caret line="91" column="41" lean-forward="false" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
+              <folding>
+                <element signature="e#6#3294#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_overrides.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_overrides.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="728">
+              <caret line="875" column="24" lean-forward="false" selection-start-line="875" selection-start-column="24" selection-end-line="875" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_default-variables.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_default-variables.scss">
+      <file leaf-file-name="menu-link.vars.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/menu/menu-link.vars.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -113,12 +465,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/style.scss">
+      <file leaf-file-name="page--movies--page.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--movies--page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="114" selection-end-column="9" />
+              <folding>
+                <element signature="e#6#3294#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,12 +490,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region-page-top.tpl.php" />
+        <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--front.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--movies.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/config.rb" />
         <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/sass.info" />
-        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--front.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region-page-top.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--movies--page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_overrides.scss" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--reviews.tpl.php" />
       </list>
     </option>
   </component>
@@ -156,10 +519,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="-11" />
-    <option name="width" value="1857" />
-    <option name="height" value="1092" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,6 +540,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -330,11 +694,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -356,15 +716,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="contrib" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,53 +742,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="contrib" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d7" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block" />
+              <option name="myItemId" value="nodequeue" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,21 +774,23 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sites/all/themes" />
+      <recent name="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates" />
+      <recent name="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss" />
+      <recent name="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images" />
       <recent name="$PROJECT_DIR$/sites/all/modules/contrib" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss" />
-      <recent name="$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -571,24 +891,27 @@
       <workItem from="1493230741942" duration="8571000" />
       <workItem from="1493276109518" duration="22459000" />
       <workItem from="1493305963211" duration="3000" />
-      <workItem from="1493306141882" duration="418000" />
+      <workItem from="1493306141882" duration="601000" />
+      <workItem from="1493360839683" duration="11929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31466000" />
+    <option name="totallyTimeSpent" value="43578000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26755112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776618" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -596,7 +919,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -619,103 +941,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1660">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#3287#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/block/block.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/region.vars.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="82" column="21" lean-forward="false" selection-start-line="78" selection-start-column="6" selection-end-line="82" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_default-variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_overrides.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19960">
-          <caret line="998" column="15" lean-forward="false" selection-start-line="998" selection-start-column="15" selection-end-line="998" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1660">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#3287#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -835,23 +1065,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#3287#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/sass.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -883,7 +1097,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/style.scss">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -891,7 +1105,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_default-variables.scss">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/block/block.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -907,41 +1121,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.tpl.php">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="82" column="21" lean-forward="false" selection-start-line="78" selection-start-column="6" selection-end-line="82" selection-end-column="21" />
+        <state relative-caret-position="273">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--front.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-220">
+          <caret line="76" column="4" lean-forward="false" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#3287#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/block/block.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.vars.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -952,6 +1148,131 @@
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/region.vars.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bartik/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1380">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--page--page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/region.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--movies--page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="89" column="25" lean-forward="false" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/sass/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/sass.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_default-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/system/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/admin_menu/admin-menu-links.vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/menu/menu-link.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/menu/menu-link.vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -959,9 +1280,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/scss/_overrides.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="998" column="15" lean-forward="false" selection-start-line="998" selection-start-column="15" selection-end-line="998" selection-end-column="15" />
+        <state relative-caret-position="728">
+          <caret line="875" column="24" lean-forward="false" selection-start-line="875" selection-start-column="24" selection-end-line="875" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--movies--page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="114" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#3294#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/contrib/token/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/contrib/nodequeue/INSTALL.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/contrib/nodequeue/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="91" column="41" lean-forward="false" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
+          <folding>
+            <element signature="e#6#3294#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--reviews.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#3294#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/subtheme_bootstrap/templates/page--main--page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="114" column="9" lean-forward="false" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#3294#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

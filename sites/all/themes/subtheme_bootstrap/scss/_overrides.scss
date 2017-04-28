@@ -45,8 +45,6 @@ html {
   }
 }
 body {
-  background-color: white;
-  height: 1000%;
   // Fix horizontal scrolling on iOS devices.
   // http://drupal.org/node/1870076
   position: relative;
@@ -104,12 +102,6 @@ body {
     .dropdown li {
       line-height: normal;
     }
-  }
-
-  div#skip-link {
-    background-color: white;
-    display: block;
-    height: 12px;
   }
 }
 
@@ -196,7 +188,7 @@ ul.secondary {
 
 // Page header.
 .page-header {
-  display: none;
+  margin-top: 0;
 }
 
 // Sidebar blocks.
@@ -878,125 +870,9 @@ a {
     margin-right: -.25em;
   }
 }
-
-.container {
-  margin-right: auto;
-  margin-left: auto;
-  padding-left: 15px;
-  padding-right: -20px;
-}
-.container:before, .container:after {
-  content: " ";
-  display: table;
-}
-.container:after {
-  clear: both;
-}
-@media (max-width: 767px) {
-  .container {
-    width: 100%;
-  }
-}
-@media (max-width: 480px) {
-  .container {
-    width: 100%;
-  }
-}
-@media (min-width: 768px) and (max-width: 992px) {
-  .container {
-    width: 100%;
-  }
-}
-@media (min-width: 992px) {
-  .container {
-    width: 100%;
-    height: 82px;
-  }
-}
-@media (min-width: 1200px) {
-  .container {
-    width: 100%;
-    height: 82px;
-  }
-}
-
-div.panel-panel.panel-col-top {
-  div.inside {
+header#navbar {
+  div.container {
     display: flex;
-    justify-content: space-between;
-    background-color: white;
     align-items: center;
-    padding-left: 30px;
-    padding-right: 30px;
   }
-
-}
-
-div.contextual-links-region.panel-pane.pane-block.pane-system-main-menu {
-  background-color: white;
-  text-transform: uppercase;
-
-  ul.menu.nav {
-    position: relative;
-    background-color: #f8f8f8;
-    display: flex;
-    justify-content: space-between;
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  li {
-    display: flex;
-    flex: 1;
-
-    a {
-      color: black;
-      font-size: 16px;
-      font-weight: 400;
-    }
-  }
-}
-@media (max-width: 767px) {
-  div.contextual-links-region.panel-pane.pane-block.pane-system-main-menu {
-    width: 100%;
-  }
-}
-@media (max-width: 480px) {
-  div.contextual-links-region.panel-pane.pane-block.pane-system-main-menu {
-    width: 100%;
-  }
-}
-@media (min-width: 768px) and (max-width: 992px) {
-  div.contextual-links-region.panel-pane.pane-block.pane-system-main-menu {
-    width: 100%;
-  }
-}
-@media (min-width: 992px) {
-  div.contextual-links-region.panel-pane.pane-block.pane-system-main-menu {
-    width: 100%;
-  }
-}
-@media (min-width: 1200px) {
-  div.contextual-links-region.panel-pane.pane-block.pane-system-main-menu {
-    width: 100%;
-  }
-}
-div.views-field.views-field-field-picture {
-  width: 100%;
-
-  div.field-content {
-    .img-responsive {
-      display: block;
-      max-width: 100%;
-      height: auto;
-    }
-  }
-}
-div.panel-pane.pane-views.pane-carausel {
-  background-color: #bdbeb9;
-}
-.slick-arrow::before {
-  color: white;
-  font-size: 36px;
-  font-size: 2.25rem;
 }

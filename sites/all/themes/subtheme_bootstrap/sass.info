@@ -1,4 +1,4 @@
-name = 'Subtheme_bootstrap (SASS)'
+name = 'Subtheme Bootstrap'
 description = Uses the Bootstrap Framework Sass source files and must be compiled (not for beginners).
 core = 7.x
 base theme = bootstrap
